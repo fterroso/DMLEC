@@ -6,4 +6,4 @@ DMLEC is open source tool that allows you to create your own machine-learning en
 
 ## Installation
 
-The following pdf file includes the instructions of how to deploy DMLEC in your own computer (in Spanish).
+The pdf file DMLEC_instalacion.pdf includes the instructions of how to deploy DMLEC in your own computer (in Spanish).
